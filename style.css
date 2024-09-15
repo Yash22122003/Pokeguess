@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+}
+.bg{
+    width: 100vw;
+    height: 110vh;
+    position: absolute;
+}
+#game{
+    position: relative;
+}
+
+.Photoapi{
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    display: flex;
+    justify-content: left;
+    align-items: top;
+    z-index: 1;
+    background-color: #212121;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+.search-input{
+    width: 350px;
+    height: 50px;
+    position: absolute;
+    z-index: 1;
+    background-color: #212121;
+    margin-left: 100px;
+    margin-top: 500px;
+    border-radius: 50%;
+    text-align: center;
+}
+ 
+
